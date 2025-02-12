@@ -15,6 +15,6 @@ I am a Software Engineer with 3+ years of experience in building scalable, user-
 
   💡 **Current Personal Projects:**
     
-  1. **Preschool** - A website for preschool(HTML, CSS, JS). Live Demo: [Website for Preschool](https://anna9991.github.io/School/).
+  1. **Preschool** - A website for preschool(HTML, CSS, JS). Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/).
 
 </div>
