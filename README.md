@@ -1,6 +1,7 @@
   
 # Hi there! 👋 I'm Anna
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%2F+Frontend+Developer)](https://git.io/typing-svg)
+
 ## 👩‍💻 About Me
 
 I am a Software Engineer with 3+ years of experience in building scalable, user-friendly applications, now focused on mastering JavaScript, TypeScript, and modern web frameworks.
