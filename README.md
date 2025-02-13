@@ -16,7 +16,7 @@ I am a Software Engineer with 3+ years of experience in building scalable, user-
 
 🌱 I also have strong background in developing high-performance software solutions in C++/Qt and Python. 
 
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,cpp,c,cmake,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,sql,cpp,c,cmake,qt)](https://skillicons.dev)
 
 💡 **Current Personal Projects:**
 
