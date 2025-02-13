@@ -20,4 +20,5 @@ I am a Software Engineer with 3+ years of experience in building scalable, user-
 
 💡 **Current Personal Projects:**
 
-1. **Preschool** - A website for preschool(HTML, CSS, JS). Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/).
+1. **🇫🇮 Finnish-words** - A Single Page Application (SPA) for learning Finnish words in JS (Webpack, Firebase) Live Demo: [Finnish-Words](https://finnishlearn-f9b97.web.app)
+2. **📚 Preschool** - A website for preschool(HTML, CSS, JS). Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/).
