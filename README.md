@@ -18,5 +18,6 @@ I am a Software Engineer with 3+ years of experience in building scalable, user-
 
 💡 **Current Personal Projects:**
 
-1. **🇫🇮 Finnish-words** - A Single Page Application (SPA) for learning Finnish words in JS (Webpack, Firebase) Live Demo: [Finnish-Words](https://finnishlearn-f9b97.web.app)
-2. **📚 Preschool** - A website for preschool(HTML, CSS, JS). Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/).
+1. **🌤️ Weather App** - A simple weather application built with React, TS and OpenWeather API (+CSS-in-JS). Live Demo: [Weather App](https://chukhrova-weather.netlify.app)
+2. **🇫🇮 Finnish-words** - A Single Page Application (SPA) for learning Finnish words in JS (Webpack, Firebase). Live Demo: [Finnish-Words](https://finnishlearn-f9b97.web.app)
+3. **📚 Preschool** - A website for preschool(HTML, CSS, JS). Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/).
