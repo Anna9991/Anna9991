@@ -1,23 +1,33 @@
   
-# Hi there! 👋 I'm Anna
-## 👩‍💻 About Me
+# Hi there! 👋 I'm Anna 👩‍💻
 
-I am a Software Engineer with 3+ years of experience in building scalable, user-friendly applications, now focused on mastering JavaScript, TypeScript, and modern web frameworks.
+I am a Software Engineer with 3+ years of experience in building scalable, user-friendly applications, now focused on mastering ....
 
-🔍 **My main stack now:** JavaScript, HTML, CSS.
+🔍 **My main stack now:** C, C++, Python.
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,npm,webpack,firebase,figma,git,github,gitlab)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,c,cmake,qt,git,github,gitlab)
 
-📚 Learning: TypeScript and React.
+📚 Learning: Rust.
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,redux)
+![My Skills](https://skillicons.dev/icons?i=rust)
 
-🌱 I also have strong background in developing high-performance software solutions in C++/Qt and Python. 
+🌱 . 
 
-![My Skills](https://skillicons.dev/icons?i=py,selenium,sqlite,cpp,c,cmake,qt)
+![My Skills](https://skillicons.dev/icons?i=selenium,sqlite)
 
 💡 **Current Personal Projects:**
 
-1. **🌤️ Weather App** - A simple weather application built with React, TS and OpenWeather API (+CSS-in-JS). Live Demo: [Weather App](https://chukhrova-weather.netlify.app)
-2. **🇫🇮 Finnish-words** - A Single Page Application (SPA) for learning Finnish words in JS (Webpack, Firebase). Live Demo: [Finnish-Words](https://finnishlearn-f9b97.web.app)
-3. **📚 Preschool** - A website for preschool(HTML, CSS, JS). Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/).
+**🌤️ Weather App** - A simple weather application.
+Live Demo: [Weather App](https://chukhrova-weather.netlify.app)
+
+![My Skills](https://skillicons.dev/icons?i=ts,react,redux,npm,figma)
+
+**🇫🇮 Finnish-words** - A Single Page Application (SPA) for learning Finnish words.
+Live Demo: [Finnish-Words](https://finnishlearn-f9b97.web.app)
+
+![My Skills](https://skillicons.dev/icons?i=js,webpack,firebase)
+
+**📚 Preschool** - A website for preschool.
+Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/)
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
