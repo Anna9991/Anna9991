@@ -11,23 +11,9 @@ I am a Software Engineer with 3+ years of experience in building scalable, user-
 
 ![My Skills](https://skillicons.dev/icons?i=rust)
 
-🌱 . 
+💡 **Current personal projects:**
 
-![My Skills](https://skillicons.dev/icons?i=selenium,sqlite)
+🌱 **Hobby projects:**
 
-💡 **Current Personal Projects:**
-
-**🌤️ Weather App** - A simple weather application.
-Live Demo: [Weather App](https://chukhrova-weather.netlify.app)
-
-![My Skills](https://skillicons.dev/icons?i=ts,react,redux,npm,figma)
-
-**🇫🇮 Finnish-words** - A Single Page Application (SPA) for learning Finnish words.
-Live Demo: [Finnish-Words](https://finnishlearn-f9b97.web.app)
-
-![My Skills](https://skillicons.dev/icons?i=js,webpack,firebase)
-
-**📚 Preschool** - A website for preschool.
-Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/)
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+**🇫🇮 Finnish-words** - A Single Page Application (SPA) for learning Finnish words (JS, Webpack, Firebase). Live Demo: [Finnish-Words](https://finnishlearn-f9b97.web.app)
+**📚 Preschool** - A website for preschool (HTML, CSS, JS). Live Demo: [Website for Preschool](https://anna9991.github.io/Preschool/)
